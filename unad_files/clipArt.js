@@ -1,0 +1,1 @@
+define("clipArt",["lodash","wPhoto"],function(a,b){"use strict";var c=a.clone(b);c.displayName="ClipArt";return c});
